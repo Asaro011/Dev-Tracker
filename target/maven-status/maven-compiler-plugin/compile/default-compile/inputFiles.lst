@@ -1,0 +1,13 @@
+C:\Users\UltrA\OneDrive\Escritorio\Code\Java\devtracker\devtracker-backend\src\main\java\com\devtracker\devtracker_backend\config\SecurityConfig.java
+C:\Users\UltrA\OneDrive\Escritorio\Code\Java\devtracker\devtracker-backend\src\main\java\com\devtracker\devtracker_backend\controller\HomeController.java
+C:\Users\UltrA\OneDrive\Escritorio\Code\Java\devtracker\devtracker-backend\src\main\java\com\devtracker\devtracker_backend\controller\UserController.java
+C:\Users\UltrA\OneDrive\Escritorio\Code\Java\devtracker\devtracker-backend\src\main\java\com\devtracker\devtracker_backend\DevtrackerBackendApplication.java
+C:\Users\UltrA\OneDrive\Escritorio\Code\Java\devtracker\devtracker-backend\src\main\java\com\devtracker\devtracker_backend\dto\ErrorResponse.java
+C:\Users\UltrA\OneDrive\Escritorio\Code\Java\devtracker\devtracker-backend\src\main\java\com\devtracker\devtracker_backend\dto\UserRequest.java
+C:\Users\UltrA\OneDrive\Escritorio\Code\Java\devtracker\devtracker-backend\src\main\java\com\devtracker\devtracker_backend\entity\User.java
+C:\Users\UltrA\OneDrive\Escritorio\Code\Java\devtracker\devtracker-backend\src\main\java\com\devtracker\devtracker_backend\exception\EmailAlreadyExistException.java
+C:\Users\UltrA\OneDrive\Escritorio\Code\Java\devtracker\devtracker-backend\src\main\java\com\devtracker\devtracker_backend\exception\GlobalExceptionHandler.java
+C:\Users\UltrA\OneDrive\Escritorio\Code\Java\devtracker\devtracker-backend\src\main\java\com\devtracker\devtracker_backend\exception\UserNotFoundException.java
+C:\Users\UltrA\OneDrive\Escritorio\Code\Java\devtracker\devtracker-backend\src\main\java\com\devtracker\devtracker_backend\repository\UserRepository.java
+C:\Users\UltrA\OneDrive\Escritorio\Code\Java\devtracker\devtracker-backend\src\main\java\com\devtracker\devtracker_backend\service\UserService.java
+C:\Users\UltrA\OneDrive\Escritorio\Code\Java\devtracker\devtracker-backend\src\main\java\config\SecurityConfig.java

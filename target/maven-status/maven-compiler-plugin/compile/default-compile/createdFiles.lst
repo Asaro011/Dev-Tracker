@@ -1,0 +1,8 @@
+com\devtracker\devtracker_backend\dto\UserRequest.class
+com\devtracker\devtracker_backend\controller\HomeController.class
+com\devtracker\devtracker_backend\controller\UserController.class
+com\devtracker\devtracker_backend\DevtrackerBackendApplication.class
+com\devtracker\devtracker_backend\entity\User.class
+com\devtracker\devtracker_backend\config\SecurityConfig.class
+com\devtracker\devtracker_backend\service\UserService.class
+com\devtracker\devtracker_backend\repository\UserRepository.class
